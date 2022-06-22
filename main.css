@@ -41,12 +41,12 @@
 
 :root {
 	--bgColour: #3dedff;
-	--fgColour: #f5f5f5;
-	--titleFgColour: #ffffff;
-	--menuBgColour: #222222;
-	--menuFgColour: #f5f5f5;
-	--menuFgColourHover: #ffffff;
-	--lineColour: #f5f5f5;
+	--fgColour: #000000;
+	--titleFgColour: #000000;
+	--menuBgColour: #f1faa1;
+	--menuFgColour: #000000;
+	--menuFgColourHover: #222222;
+	--lineColour: #000000;
 }
 
 html {
