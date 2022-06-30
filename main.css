@@ -162,6 +162,15 @@ body {
 	height: auto;
 }
 
+a {	
+	color: var(--menuFgColour);
+}
+
+a:hover {
+	font-weight: bold;
+	color: var(--menuFgColourHover);
+}
+
 hr {
 	border: 2px solid var(--lineColour);
 	border-radius: 5px;
