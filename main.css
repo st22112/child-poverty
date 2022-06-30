@@ -162,11 +162,11 @@ body {
 	height: auto;
 }
 
-a {	
+.link {	
 	color: var(--menuFgColour);
 }
 
-a:hover {
+.link:hover {
 	font-weight: bold;
 	color: var(--menuFgColourHover);
 }
